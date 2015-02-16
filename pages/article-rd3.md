@@ -1,56 +1,90 @@
 # Gymkhana, construire ensemble
-  # et autrement des idées citoyennes, 
-  # Stéphane LANGLOIS & Claude AUBRY
-Teaser
-Si nous ne faisons pas germer nos idées citoyennes, elles finiront cabossées, déformées et monétisées. Facilités par Claude Aubry et Stéphane Langlois, les ateliers gymkhana proposent de transformer une idée portée par des citoyens en un plan actionnable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale. L'ensemble des ressources, et les fiches outils des ateliers sont disponibles à l'adresse : gymkhana.fr.
-Les citoyens dans le phare, les développeurs sur le bateau 
-Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Cette matière première est malheureusement mal exploitée, la collaboration avec les développeurs, directe ou par des intermédiaires, étant souvent infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
-On trouve aujourd'hui des développeurs citoyens qui, conscients de ce fossé, veulent devenir des artisans : plutôt que de faire consommer, ils souhaitent enchanter les utilisateurs avec leurs réalisations. Que ces artisans développeurs et citoyens usagers trouvent ensemble un espéranto, voilà notre credo.
-Les premiers mots d'un langage commun sont ceux de la vision, comprise et partagée par tous. Pourtant, force est de constater que, même en partant d'une idée qui semble utile à tous, s'aligner sur une vision relève le plus souvent de la bonne fortune. La conséquence directe de ce manque d'alignement entre les parties est que, neuf fois sur dix, les projets n'aboutissent pas ou que les résultats ne sont que très peu ou pas utilisés. L’effort fourni avant de reconnaître l’échec représente une dépense de ressources et un gaspillage d’énergie considérables.
-« La vie est trop courte pour construire quelque chose que personne ne veut. » - Ash Maurya
-Il est nécessaire de casser la cloison qui sépare les développeurs des citoyens afin d'aligner les visions. Pour y parvenir, il nous est apparu fondamental de rencontrer les citoyens et d'échanger avec eux sur leurs besoins réels. Nous espérions ainsi éviter de nous enfermer dans une solution anticipée et inadaptée.
-Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduit, de Montpellier à Bordeaux en passant par Toulouse, à l'élaboration d'une nouvelle approche construite sur des ateliers participatifs avec les citoyens. Cette approche que nous avons bâtie petit à petit avec le feedback des premiers participants et qui continue de s'enrichir, c'est gymkhana.
+# et autrement des idées citoyennes, 
+# Stéphane LANGLOIS & Claude AUBRY
 
-Claude Aubry à l'Open Bidouille Camp de Bordeaux
-Crise en incubation
+## Teaser
+Si nous ne faisons pas germer nos idées citoyennes, elles finiront cabossées, déformées et monétisées. Facilités par Claude Aubry et Stéphane Langlois, les ateliers gymkhana proposent de transformer une idée portée par des citoyens en un plan actionnable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale. L'ensemble des ressources, et les fiches outils des ateliers sont disponibles à l'adresse : gymkhana.fr.
+
+## Les citoyens dans le phare, les développeurs sur le bateau 
+Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Cette matière première est malheureusement mal exploitée, la collaboration avec les développeurs, directe ou par des intermédiaires, étant souvent infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
+
+On trouve aujourd'hui des développeurs citoyens qui, conscients de ce fossé, veulent devenir des artisans : plutôt que de faire consommer, ils souhaitent enchanter les utilisateurs avec leurs réalisations. Que ces artisans développeurs et citoyens usagers trouvent ensemble un espéranto, voilà notre credo.
+
+Les premiers mots d'un langage commun sont ceux de la vision, comprise et partagée par tous. Pourtant, force est de constater que, même en partant d'une idée qui semble utile à tous, s'aligner sur une vision relève le plus souvent de la bonne fortune. La conséquence directe de ce manque d'alignement entre les parties est que, neuf fois sur dix, les projets n'aboutissent pas ou que les résultats ne sont que très peu ou pas utilisés. L’effort fourni avant de reconnaître l’échec représente une dépense de ressources et un gaspillage d’énergie considérables.
+
+> « La vie est trop courte pour construire quelque chose que personne ne veut. » - Ash Maurya
+
+Il est nécessaire de casser la cloison qui sépare les développeurs des citoyens afin d'aligner les visions. Pour y parvenir, il nous est apparu fondamental de rencontrer les citoyens et d'échanger avec eux sur leurs besoins réels. Nous espérions ainsi éviter de nous enfermer dans une solution anticipée et inadaptée.
+
+Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduit, de Montpellier à Bordeaux en passant par Toulouse, à l'élaboration d'une nouvelle approche construite sur des ateliers participatifs avec les citoyens. Cette approche que nous avons bâtie petit à petit avec le feedback des premiers participants et qui continue de s'enrichir, c'est gymkhana
+
+<wiki commons>
+
+*Claude Aubry à l'Open Bidouille Camp de Bordeaux*
+
+## Crise en incubation
 L'inception de gymkhana date de 2013. À l'époque, notre idée était de réaliser une application Web, baptisée Crise, avec pour but d'aider les citoyens à prendre les bonnes décisions en situation d'intempéries importantes, comme les épisodes cévenols. Nous avions choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire.
 Durant six mois, nous avons éprouvé les approches d'accompagnement proposées par l'incubateur. Nous avons suivi des formations marketing afin de réaliser un business plan et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si la richesse des rencontres et des échanges autour de projets solidaires pertinents s'est avérée très bénéfique, en revanche l'approche de l'incubateur nous est apparue totalement inadaptée à la conduite d'un projet Web innovant.
+
 À l'issue de cette expérience, nous étions sûrs qu'un vrai besoin de décider en période de crise existait. Mais nous avions aussi établi le constat que les projets incubés étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincus que les méthodes Agiles, que nous pratiquions depuis plusieurs années pour transformer les organisations, contribueraient aussi à aider, et bien plus efficacement, les porteurs de projets citoyens.
-Montpellier, un essai transformable
+
+## Montpellier, un essai transformable
 Le premier coup de pied gymkhana a été donné à Montpellier. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois d'incubation : collecter les besoins pour modéliser une première hypothèse de travail. Nous avions hâte de revenir à nos pratiques, et de commencer enfin la réalisation de Crise.
 
-Atelier de co-construction Crise à Montpellier
+<wiki>
+*Atelier de co-construction Crise à Montpellier*
+
 Une des singularités du projet reposait sur l’absence de client au sens conventionnel du terme. L’habitude que nous avions des jeux agiles a fait émerger l’idée d’organiser une journée de co-construction centrée sur les usagers. Pour cette première expérience, des citoyens un peu particuliers ont été invités : des développeurs, des Product Owners, des facilitateurs et des experts métiers spécialisés dans la gestion des crises d’intempéries.
 La matinée a été consacrée à plusieurs jeux destinés à encourager la créativité autour de l'idée initiale : nous avons d'abord identifié les critères de succès de Crise avec « souvenir du futur », puis réfléchi au comportement des utilisateurs en créant des personas, et enfin cherché ce qui pouvait nous empêcher d'atteindre notre cap avec le « hors-bord ».
+
 L'après-midi, les participants ont imaginé les fonctionnalités essentielles pour Crise. Nous les avons aussi encouragés à les prioriser pour définir un outil minimum.
+
 Pour synthétiser les résultats des jeux et converger vers une vision partagée, nous avons essayé trois ateliers. À grands coups de post-it nous avons imaginé :
-la carte heuristique (mindmap) spécialisée (Pourquoi ? Avec qui ? Comment ? Quoi ?) ;
-la carte des usages à 2 dimensions (séquence, utilité) ;
-le canevas géant avec ses rubriques prédéfinies (basé sur le lean canvas).
+
+* la carte heuristique (mindmap) spécialisée (Pourquoi ? Avec qui ? Comment ? Quoi ?) ;
+* la carte des usages à 2 dimensions (séquence, utilité) ;
+* le canevas géant avec ses rubriques prédéfinies (basé sur le lean canvas).
+
 La matinée s'est révélée très prolifique, la parole a bien circulé, les ateliers nous ont permis d’obtenir une compréhension relative de Crise et des impacts attendus par les citoyens. Nous souhaitions converger dans l'après-midi, mais le passage des jeux à la concertation a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions a, par exemple, généré des controverses longues et ennuyeuses.
+
 D’autre part, au lieu de rechercher le consentement des intervenants, nous avons écrêté les idées colorées et originales. Finalement, le résultat s'est arrondi pour aboutir à une espèce de consensus mou. Par exemple, l'idée d'utiliser un canoë pour se déplacer dans les rues de la ville a été immédiatement écartée au profit de propositions plus conventionnelles, comme aider les parents à récupérer leurs enfants à l'école.
+
 Pendant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux fragmentés, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à consolider une vision homogène du produit avec ces éléments.
+
 La rétrospective de la journée a révélé trois problèmes :
-Nous n'arrivions pas à faire ressortir l'intelligence collective ;
-Certaines séquences provoquaient des débats stériles ;
-La production des ateliers était trop morcelée pour être exploitable.
-Toulouse presque rose
+
+* Nous n'arrivions pas à faire ressortir l'intelligence collective ;
+* Certaines séquences provoquaient des débats stériles ;
+* La production des ateliers était trop morcelée pour être exploitable.
+
+## Toulouse presque rose
 Nous avons décidé de reconduire cette journée à Toulouse en continuant la co-construction de l'application Crise, tout en essayant de résoudre les problèmes rencontrés à Montpellier :
-Pour redonner du tonus, nous avons lancé une invitation à participer à une journée d'ateliers, dans le tiers lieu La Cantine ;
-Pour rendre l'événement accessible aux citoyens, nous avons publié une annonce sur le site on va sortir. Nous avons également invité des partenaires de la communauté Agile.
-Pour réduire le risque du consensus mou, nous avons ajouté à nos pratiques des exercices issus de l'éducation populaire, favorisant la co-création, et de la pensée intuitive du groupe.
-Les résultats ont été concluants. Des idées plus originales ont émergé, comme, par exemple, la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, Crise a d'ailleurs été rebaptisée typhon futé et un fork a été envisagé par quelques Toulousains encore marqués par la catastrophe AZF. 
+
+* Pour redonner du tonus, nous avons lancé une invitation à participer à une journée d'ateliers, dans le tiers lieu La Cantine ;
+* Pour rendre l'événement accessible aux citoyens, nous avons publié une annonce sur le site on va sortir. Nous avons également invité des partenaires de la communauté Agile.
+* Pour réduire le risque du consensus mou, nous avons ajouté à nos pratiques des exercices issus de l'éducation populaire, favorisant la co-création, et de la pensée intuitive du groupe.
+
+Les résultats ont été concluants. Des idées plus originales ont émergé, comme, par exemple, la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, Crise a d'ailleurs été rebaptisée typhon futé et un fork a été envisagé par quelques Toulousains encore marqués par la catastrophe AZF.
+
 Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction du canevas. Notre approche n'était pas assez structurée, nous l'avons simplement présentée en disant que les résultats des jeux constituaient une piste envisageable, une base pour les rubriques du canevas. Les résultats se sont montrés encourageants, sans toutefois résoudre complètement le problème de fragmentation du produit.
+
 Lors de la construction collective du canevas et encore plus dans la convergence vers les solutions envisagées, nous avons constaté des hold-up de parole.
+
 En sortant de La Cantine subsistaient encore comme problèmes ces prises de paroles intempestives et surtout la difficulté à converger vers une vision partagée.
-Remue-méninges à Castanet-Tolosan
+
+## Remue-méninges à Castanet-Tolosan
 À deux pendant une semaine, avec force cafés et post-it, nous avons cogité à l’organisation des ateliers en creusant la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un tout cohérent et actionnable. Nous souhaitions conserver un artefact holistique et visuel, dans l'idée du canevas de Running lean d'Ash Maurya, que présente Nicolas dans son histoire « Libérez-vous, n'ayez pas peur de l'échec », dans cette même saison.
+
 Les jeux offrent une résolution tactique élégante. Pendant les ateliers ludiques, un groupe converge facilement vers des propositions collectives sans partir dans les discussions infructueuses ou dans les monologues.
+
 Nous avons donc identifié des jeux dédiés à chacune des sections du canevas. Nous nous sommes rendu compte que parfois un jeu répondait à plusieurs sections, parfois une section pouvait être couverte par plusieurs jeux. Cela n'était pas un problème, au contraire, il nous semblait intéressant de proposer des alternatives dans la couverture du canevas.
 
-Le lean canvas en action
+<wiki>
+*Le lean canvas en action*
 L'approche running lean, ainsi adaptée, apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit.
+
 Un gros problème subsistait : cette approche est résolument commerciale et orientée profit, alors que nous visions l’utilité citoyenne et le bien commun. Nous avons encore modifié, ou plutôt bidouillé les ateliers et le canevas, et cette nouvelle formule a été baptisée gymkhana.
+
 À cette étape, l'approche apparaissait séduisante. Nous l'avons d'abord vérifiée entre nous, en simulant à deux le déroulement typique de la journée. Ce premier niveau de feedback nous a permis d'ajuster l'accostage des jeux au canevas, de préciser la façon d'embarquer les idées des participants. Nous étions rassurés sur la faisabilité, il nous restait à tester concrètement cette nouvelle formule. Ce serait à l'occasion de la rencontre open bidouille de Bordeaux.
 Anime-moi tendre, anime-moi vrai
 L'open bidouille camp, c'est un peu la foire du do it yourself. On y trouve des imprimantes 3D, des fans du disco soupe, des ateliers pour construire des tampons encreurs avec des légumes, et… pour l'édition 2014, les ateliers gymkhana.
