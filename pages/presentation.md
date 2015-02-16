@@ -10,7 +10,6 @@ Dans son livre [Running Lean](http://runninglean.co/), [Ash Maurya](https://twit
 
 Cette approche permet de tester les hypothèses liées à un *business model* et se propose de réduire les cycles de commercialisation des produits, à mesurer régulièrement les progrès réalisés, et à obtenir des retours de la part des utilisateurs.
 
-
 ## Adaptation pour Gymkhana
 L'approche proposée par Ash Maurya est très orientée application commerciale.
 
@@ -24,7 +23,7 @@ L'idée d'utiliser un canevas vient du [Business Model Canvas](http://www.busine
 
 ## Comment ça marche ?
 
-![Lean canvas](/contribution/canvas.png)
+![Lean canvas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gymkhana-canvas.png/640px-Gymkhana-canvas.png)
 
 Pour Gymkhana, les blocs du canevas sont identiques à ceux proposés dans Running Lean, avec une orientation adaptée :
 
