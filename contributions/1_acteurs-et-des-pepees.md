@@ -15,10 +15,10 @@ L'idée d'une application citoyenne.
 ### Des citoyens
 Un groupe de citoyens, avec un facilitateur pour un ou deux groupes. Les citoyens sont de potentiels futurs utilisateurs de l'application qui pourrait découler de l'idée.
 
-La taille du groupe peut varier entre 4 et 7 personnes.
+La taille d'un groupe peut varier entre 4 et 7 personnes.
 
 ### Du matériel
-L'atelier se mène avec un paperboard et des post-it.
+L'atelier se mène avec un paperboard, des marqueurs et des post-it.
 
 ### Du temps
 De 30 minutes à une heure selon la taille du groupe et ses initiatives.
@@ -50,7 +50,7 @@ On demande aux participants d'y positionner les post-it.
 ## Synthèse
 On définit collectivement les acteurs ou parties prenantes à satisfaire en priorité.
 
-On identifie les premiers utilisateurs (*early adopters*).
+On identifie les premiers utilisateurs (*early adopters*) potentiels pour les ajouter dans la case 1A. Il convient de désigner des groupes de personnes qu'on peut identifier clairement et à qui on pourra s'adresser facilement.
 
 Le résultat est mis sur le canevas.
 
