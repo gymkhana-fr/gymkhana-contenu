@@ -26,14 +26,14 @@ On leur demande de se téléporter dans le futur : par exemple un mois après la
 
 C'est un atelier qui marche bien si on présente correctement le retour dans le passé, à partir du futur.
 
-En remontant dans le mois qui vient de s'écouler, les participants sont invités à donner les impacts qu'a eus l'application sur leur vie, ce qui a changé leur comportement.
+En remontant dans le mois qui vient de s'écouler, les participants sont invités à donner les impacts qu'a eus l'application sur leur vie, ce qui a changé leur comportement. Un impact devrait pouvoir être mesuré, les animateurs insistent pour obtenir des données quantitatives.
 
 ![impacts](/contribution/impacts.jpg)
 
 Si plusieurs types d'utilisateurs sont importants, on pourra mener d'autres sessions du jeu.
 
 ### Des impacts aux problèmes
-Les impacts sont reformulés en problèmes pour aller sur le canevas.
+Les impacts peuvent être reformulés en problèmes pour aller sur le canevas.
 
 Les participants définissent les 3 les plus importants. La sélection peut se faire en utilisant la technique du *dot voting*, chacun disposant d'un certain nombre de points (3 ou 5) pour exprimer ses préférences.
 
