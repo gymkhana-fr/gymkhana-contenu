@@ -86,17 +86,19 @@ L'approche running lean, ainsi adaptée, apportait une réponse stratégique qui
 Un gros problème subsistait : cette approche est résolument commerciale et orientée profit, alors que nous visions l’utilité citoyenne et le bien commun. Nous avons encore modifié, ou plutôt bidouillé les ateliers et le canevas, et cette nouvelle formule a été baptisée gymkhana.
 
 À cette étape, l'approche apparaissait séduisante. Nous l'avons d'abord vérifiée entre nous, en simulant à deux le déroulement typique de la journée. Ce premier niveau de feedback nous a permis d'ajuster l'accostage des jeux au canevas, de préciser la façon d'embarquer les idées des participants. Nous étions rassurés sur la faisabilité, il nous restait à tester concrètement cette nouvelle formule. Ce serait à l'occasion de la rencontre open bidouille de Bordeaux.
-Anime-moi tendre, anime-moi vrai
+
+## Anime-moi tendre, anime-moi vrai
 L'open bidouille camp, c'est un peu la foire du do it yourself. On y trouve des imprimantes 3D, des fans du disco soupe, des ateliers pour construire des tampons encreurs avec des légumes, et… pour l'édition 2014, les ateliers gymkhana.
 
 Pour l'occasion, nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à définir la vision et à identifier le minimum des fonctionnalités indispensables pour une application Web potentielle.
 Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté Agile bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'open bidouille sont venus nous rejoindre. Nous avons joué aux jeux que nous avions bidouillés pour l’occasion.
 En fin de journée, après des prises de parole pertinentes et équilibrées, le groupe avait fait émerger une vision collective. Une hypothèse avait été formulée dans le canevas, un produit minimum était né : jette-moi, mais bien !
 Durant les ateliers, nous avions annoncé la mise à disposition des ateliers gymkhana en licence libre. Pour honorer cette promesse, il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
-TedX : le potager numérique
+## TedX : le potager numérique
 Une présentation de gymkhana a été montrée à TedX Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
 Pour en juger, le plus simple est de vous installer confortablement et d'utiliser le Web comme une banale télévision : http://bit.ly/tedx-gymkhana
-Au pays de la médiation numérique
+
+## Au pays de la médiation numérique
 Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles, la médiation numérique, nous a invités à jouer gymkhana. Un médiateur numérique, nouveau métier encore en définition, accompagne les institutions, les associations et les citoyens pour les informer et faciliter l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture Agile.
 Nous avons construit une première hypothèse de produit sur le thème de la Gestion d’Édition Documentaire (GED) pour la médiation numérique. L’atelier s’est déroulé en 2 sessions.
 
@@ -107,19 +109,21 @@ La carte d'empathie d'un étudiant de 23 ans : Linus
 La demi-journée qui séparait les deux sessions a été utilisée pour vérifier les résultats des ateliers en effectuant des interviews auprès de vrais usagers.
 Le lendemain, nous avons commencé la session par la vérification des certitudes produites la veille, en les actualisant avec les enseignements des interviews. À la fin des ateliers, nous convergions pour vérifier la pertinence des résultats, et compléter le canevas.
 Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, les participants ont signalé un frein de compréhension lié au jargon, demande qui avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné : le démarrage de l’atelier a provoqué une légère insécurité, déstabilisante pour les protagonistes, beaucoup s'étant sentis désorientés.
-Vers quelque part et au-delà
+
+## Vers quelque part et au-delà
 Gymkhana est une suite d'ateliers ou jeux. Mais ce n'est pas que cela. Il serait dommage de confiner l'approche à une nouvelle méthode de définition de produit ; elle vise surtout à faire converger un groupe pour favoriser la réalisation d'initiatives solidaires. Dans les journées gymkhana nous ne sommes plus dans notre rôle d'expert métier, d'usager ou de développeur. Les ateliers nous aident à mettre de côté nos expertises respectives ; nous jouons et expérimentons des idées solidaires et innovantes en nous focalisant sur notre rôle de citoyen.
 Les réalisations citoyennes sont fragiles. Elles pourraient pourtant facilement être fortifiées par la création d'outils numériques adaptés. Si nous laissons ces opportunités au secteur marchand elles risquent d'être dénaturées et récupérées. Le covoiturage est un bon exemple. Né dans les années 50 d’une initiative citoyenne, son principe était initialement fondé sur des pratiques collaboratives d'auto-organisation entre usagers citoyens. Aujourd’hui, une société privée, financée par des fonds d'investissement, a développé une application qui est devenue incontournable en Europe :(
 On peut aussi s’interroger sur l'open data, qui, au départ, semble pourtant destiné aux citoyens. Beaucoup d’institutions proposent des données publiques qui sont pour l’instant largement sous-exploitées dans les quelques applications logicielles que ces organismes ont fait développer. 
 Nous pourrions utiliser gymkhana pour faciliter la concertation et l’implication des citoyens et ainsi espérer obtenir des applications au service du public et dont l’apport au bien commun est garanti dans la durée.
 De nombreuses pistes restent à explorer pour développer gymkhana. Par exemple, comment obtenir le niveau d'engagement et d'efficacité obtenu sur les grands projets open-source comme linux ? Est-il trop tard ou pouvons-nous encore proposer des alternatives aux projets collaboratifs récupérés par les startups ? Gymkhana permet de construire des hypothèses, mais comment financer le développement de ces produits minimums ?
 Pour vraiment commencer à changer le monde, il reste beaucoup à faire : développer les applications, bien sûr, mais de façon agile, c'est-à-dire en conservant cette relation constante avec les citoyens pour bénéficier de leur feedback rapide et converger vers des applications qui les enchantent. 
-3 clés à retenir
+
+## 3 clés à retenir
 Avec les jeux, nous arrivons à construire ensemble des idées sans partir dans des controverses égotiques ;
 En orientant lean canvas sur l'utilité citoyenne, il est possible de faire émerger un cadre stratégique efficace ;
 Aider les citoyens à exprimer leurs besoins plutôt que pousser une solution à partir de nos croyances.
 « Pour être convivial, un outil ne doit pas créer d'inégalité, il doit renforcer l'autonomie de chacun et il doit accroître le champ d'action de chacun sur le réel. » - Ivan Illich
-Les petits liens…
+## Les petits liens…
 http://www.gymkhana.fr – Fiches des ateliers Gymkhana
 http://blog.typhonfute.fr – Artefacts du projet Typhon Futé
 https://gymkhana.exposure.co – Photos des ateliers
@@ -130,9 +134,9 @@ http://discosoupe.org – Disco Soupe
 http://bitly.com/multibao – Accélérateur de projets
 Suivez ce compte !
 @langlois_s – Co-créateur, @claudeaubry – Co-créateur, @vinyll – Co-opérateur, @davidbgk – Co-opérateur, @liochan – Co-animateur, @lilious – Co-animateur, @keronos – Médiation numérique, @miho_fr – Typhon Futé, @newick – Co-paing, @providenz – TedX Toulon, @merkapt – Co-nseil, @ndeverge – Co-nfrère, @ashmaurya – Running Lean, 
-Mini Bio Stéphane Langlois
+## Mini Bio Stéphane Langlois
 Réveillé en 90's par la sonnerie stridente d'un modem, j'ai choisi d'accompagner des équipes pour construire des outils Web. Chercheur de pépites collaboratives, j’essaye de faciliter l'auto-organisation. Après avoir longtemps travaillé sur des projets vaguement utiles, nous avons co-décidé de co-créer la coopérative scopyleft pour favoriser la réussite de produits web-mobiles innovants et solidaires.
-Mini Bio Claude Aubry
+## Mini Bio Claude Aubry
 L'Agilité, je suis tombé dedans quand j'étais petit, mais je ne l’ai su qu’après. Ça ne s’appelait pas encore comme ça quand j’étais développeur. Ensuite, j’ai eu une période « modèles et processus » qui s’est terminée avec les premiers couplets du Manifeste Agile.
 Comme j'aime le rugby, j'ai aimé Scrum, qui me l'a bien rendu en me procurant du plaisir – et plein de rencontres. Pour partager mon enthousiasme, j'ai commencé à raconter mes aventures agiles dans le blog Scrum, Agilité & rock'n roll puis en 2010 dans Scrum le guide pratique de la méthode agile la plus populaire sorti chez Dunod.
 Maintenant, dans ma période post-scrum-new-web, j’essaie de changer le monde à coups de ruptures douces.
