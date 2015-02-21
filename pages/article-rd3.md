@@ -124,16 +124,19 @@ En orientant lean canvas sur l'utilité citoyenne, il est possible de faire éme
 Aider les citoyens à exprimer leurs besoins plutôt que pousser une solution à partir de nos croyances.
 « Pour être convivial, un outil ne doit pas créer d'inégalité, il doit renforcer l'autonomie de chacun et il doit accroître le champ d'action de chacun sur le réel. » - Ivan Illich
 ## Les petits liens…
-[http://www.gymkhana.fr](http://www.gymkhana.fr) – Fiches des ateliers Gymkhana
-[http://blog.typhonfute.fr](http://blog.typhonfute.fr) – Artefacts du projet Typhon Futé
-[https://gymkhana.exposure.co](https://gymkhana.exposure.co) – Photos des ateliers
-[http://bit.ly/obc-gymkhana](http://bit.ly/obc-gymkhana) – Open-Bidouille de Bordeaux
-[http://bit.ly/tedx-gymkhana](http://bit.ly/tedx-gymkhana) – Vidéo de la présentation TedX
-[http://bit.ly/mednum14](http://bit.ly/mednum14) – 2e Assises de la médiation numérique
-[http://discosoupe.org](http://discosoupe.org) – Disco Soupe
-[http://bitly.com/multibao](http://bitly.com/multibao) – Accélérateur de projets
+* [http://www.gymkhana.fr](http://www.gymkhana.fr) – Fiches des ateliers Gymkhana
+* [http://blog.typhonfute.fr](http://blog.typhonfute.fr) – Artefacts du projet Typhon 
+* [https://gymkhana.exposure.co](https://gymkhana.exposure.co) – Photos des ateliers
+* [http://bit.ly/obc-gymkhana](http://bit.ly/obc-gymkhana) – Open-Bidouille de Bordeaux
+* [http://bit.ly/tedx-gymkhana](http://bit.ly/tedx-gymkhana) – Vidéo de la présentation TedX
+* [http://bit.ly/mednum14](http://bit.ly/mednum14) – 2e Assises de la médiation numérique
+* [http://discosoupe.org](http://discosoupe.org) – Disco Soupe
+* [http://bitly.com/multibao](http://bitly.com/multibao) – Accélérateur de projets
+
 Suivez ce compte !
-@langlois_s – Co-créateur, @claudeaubry – Co-créateur, @vinyll – Co-opérateur, @davidbgk – Co-opérateur, @liochan – Co-animateur, @lilious – Co-animateur, @keronos – Médiation numérique, @miho_fr – Typhon Futé, @newick – Co-paing, @providenz – TedX Toulon, @merkapt – Co-nseil, @ndeverge – Co-nfrère, @ashmaurya – Running Lean, 
+@langlois_s – Co-créateur,
+@claudeaubry – Co-créateur,
+@vinyll – Co-opérateur, @davidbgk – Co-opérateur, @liochan – Co-animateur, @lilious – Co-animateur, @keronos – Médiation numérique, @miho_fr – Typhon Futé, @newick – Co-paing, @providenz – TedX Toulon, @merkapt – Co-nseil, @ndeverge – Co-nfrère, @ashmaurya – Running Lean, 
 ## Mini Bio Stéphane Langlois
 Réveillé en 90's par la sonnerie stridente d'un modem, j'ai choisi d'accompagner des équipes pour construire des outils Web. Chercheur de pépites collaboratives, j’essaye de faciliter l'auto-organisation. Après avoir longtemps travaillé sur des projets vaguement utiles, nous avons co-décidé de co-créer la coopérative scopyleft pour favoriser la réussite de produits web-mobiles innovants et solidaires.
 ## Mini Bio Claude Aubry
