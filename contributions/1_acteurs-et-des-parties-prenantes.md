@@ -1,4 +1,4 @@
-# Des acteurs et des pépées
+# Des acteurs et des parties prenantes
 
 ## Objectifs
 Cet atelier est utilisé dans le cadre de Gymkhana pour aider les participants à remplir la partie 1 du canevas.
@@ -45,7 +45,7 @@ On représente une matrice influence / impact sur un paperboard.
 
 On demande aux participants d'y positionner les post-it.
 
-![acteurs et pépées](/contribution/acteurs.png)
+![acteurs et parties prenantes](/contribution/acteurs.png)
 
 ## Synthèse
 On définit collectivement les acteurs ou parties prenantes à satisfaire en priorité.
